@@ -19,9 +19,9 @@ int get_quo(int n1, int n2){
 int main()
 {
 	int n1,n2;
-	cout<<"Enter 1st number: ";
+	cout<<"Enter  num 1: ";
 	cin>>n1;
-	cout<<"Enter 2nd number: ";
+	cout<<"Enter  num 2: ";
 	cin>>n2;
 	
 
